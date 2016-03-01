@@ -26,18 +26,18 @@ Wenn es verschlossen werden kann, kann es auch vermietet werden.
 Für einen ersten Überblick, bitte Christoph Jentzsch's [ersten Blogpost](https://blog.slock.it/slock-it-decentralizing-the-emerging-sharing-economy-cf19ce09b957#.jsk2bdps5) lesen.
 
 
-### Was ist Slock.its potentieller Markt?
+### Was ist Slock.it`s potentieller Markt?
 
 Überall dort, wo es wenig genutzte Vermögenswerte wie parkende Autos, Stellplätze oder vorübergehend leerstehende Wohnungen gibt, ergibt sich eine Möglichkeit, mit Slock.it einen Gewinn daraus zu machen. Unsere Lösung ermöglicht sowohl den Verbrauchern als auch Unternehmen ihre Vermögenswerte in Erträge umzuwandeln. Wohnungen, Büros, Elektrowerkzeuge, Fahrräder, Haushaltselektronik, Wi-Fi-Router, Autos, Motorräder und natürlich Schließfächer: Fast alles kann mit einem Slock nachgerüstet werden.
 
-Die Sharing Economy hat [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) verschiedene Milliarden-Dollar-Unternehmen mit 60.000 Mitarbeitern hervorgebracht. Der Sektor erhielt knapp 15 Mrd. $ Finanzierung so weit und seine globalen Jahresumsatz wird voraussichtlich 335.000.000.000 $ im Jahr 2025 erreichen (Quelle : [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
+Die Sharing Economy hat [17](http://venturebeat.com/2015/06/04/the-sharing-economy-has-created-17-billion-dollar-companies-and-10-unicorns/) verschiedene Milliarden-Dollar-Unternehmen mit 60.000 Mitarbeitern hervorgebracht. Der Sektor erhielt bisher knapp 15 Mrd. $ Finanzierung und der globale Jahresumsatz wird voraussichtlich 335.000.000.000 $ im Jahr 2025 erreichen (Quelle : [PWC](https://www.pwc.com/us/en/technology/publications/assets/pwc-consumer-intelligence-series-the-sharing-economy.pdf)).
 
-Wir glauben, dass sehr bald, mietbare Autos in jeder großen Stadt zur Verfügung stehen, AirBnB-Wohnungen vollständig automatisiert und kleine Unternehmen es vorziehen werden, private Arbeitsräume bei Bedarf zu mieten anstatt zu komplizierte lange Leasingverträge einzugehen. Besitzer in der Sharing Economy werden sowohl Verbraucher als auch Produzenten sein und Slocks nutzen, ein Einkommen zu verdienen, ohne Einnahmen an eine dritte Partei zu verlieren.
+Wir glauben, dass sehr bald, mietbare Autos in jeder großen Stadt zur Verfügung stehen, AirBnB-Wohnungen vollständig automatisiert sind und kleine Unternehmen es vorziehen werden, private Arbeitsräume bei Bedarf zu mieten anstatt zu komplizierte lange Leasingverträge einzugehen. Besitzer in der Sharing Economy werden sowohl Verbraucher als auch Produzenten sein und Slock`s nutzen, um ein Einkommen zu verdienen, ohne Einnahmen an eine dritte Partei zu verlieren.
 
-Die Millennials 'Philosophie wird mehr und mehr: "Wenn Sie es mieten kann, warum dann besitzen?". 66% der Weltbevölkerung ist bereit, ihr persönliches Eigentum für finanziellen Gewinn zu teilen oder zu vermieten, und diese Zahl beträgt sogar [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. Wir glauben, Slock.it ist einzigartig und trifft genau auf dieses Bedürfnis weltweit.
+Die Millennials Philosophie wird sein : "Wenn man es mieten kann, warum dann besitzen?". 66% der Weltbevölkerung ist bereit, ihr persönliches Eigentum für finanziellen Gewinn zu teilen oder zu vermieten, und diese Zahl beträgt sogar [94%](http://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Share-Community-Report.pdf) in China. Wir glauben, Slock.it ist einzigartig und trifft genau auf dieses Bedürfnis weltweit.
 
 
-### Wer sind Slock.its potenzielle Partner?
+### Wer sind Slock.it`s potenzielle Partner?
 
 Wir sind derzeit dabei verschiedene Partnerschaften einzugehen, insbesondere:
 
@@ -52,12 +52,12 @@ Wir sind derzeit dabei verschiedene Partnerschaften einzugehen, insbesondere:
 
 ### Ist Slock.it Open Source?
 
-Als Dienstleister für die DAO wird Slock.it GmbH den Code, die Smart Contracts, Benutzeroberfläche und mobile Anwendungen entwickeln und dies alles offen jedermann zur freien Benutzung zur Verfügung stellen. Wir werden nicht nur diese Dinge öffentlich machen, sondern auch alles in unserer Macht tun, Unternehmen, welche  Slock.it compatible Produkte herstellen dazu zu bewegen es ebenfalls zu tun, da wir daran interessiert sind, das Ökosystem wachsen zu sehen, weit über das hinaus, was wir begonnen haben.
+Als Dienstleister für die DAO wird Slock.it GmbH den Code, die Smart Contracts, Benutzeroberfläche und mobile Anwendungen entwickeln und dies alles offen, für jedermann zur freien Benutzung zur Verfügung stellen. Wir werden nicht nur diese Dinge öffentlich machen, sondern auch alles in unserer Macht tun, um Unternehmen, welche Slock.it kompatible Produkte herstellen, dazu zu bewegen es ebenfalls zu tun. Wir sind sehr daran interessiert, dieses Ökosystem wachsen zu sehen, weit über das hinaus, was wir begonnen haben.
 
 
 ### Was hat die Slock.it GmbH davon?
 
-Am Ende des Token-Vorverkauf wird Slock.it GmbH per daefault Dienstanbieter der DAO werden. Slock.it GmbH ist eine Firma, und die DAO wird eine ihrer Kunden sein. Es ist wichtig für uns die Ziele und Interessen zwischen der DAO und unseres Unternehmens in Einklang zu bringen, so dass Sie eine symbiotische Beziehung erwarten können. Denn von dem, was wir als GmbH erarbeiten wird auch das Slock.it Ökosystem als Ganzes profitieren. Zum Beispiel kann Slock.it GmbH eine Partnerschaft mit verschiedenen Schlossherstellern eingehen, Beratung für Unternehmen im Bereich SmartHome anbieten, die Slock.it API an Teil verbreiteter Smart Objects integrieren oder mit Banken zusammenarbeiten, um die Zahlungsmöglichkleiten für Slocks zu einfachen.
+Am Ende des Token-Vorverkauf wird Slock.it GmbH als erster Dienstleister der DAO eingesetzt werden. Slock.it GmbH ist eine Firma, und die DAO wird einer ihrer Kunden sein. Es ist wichtig für uns die Ziele und Interessen zwischen der DAO und unseres Unternehmens in Einklang zu bringen, so dass Sie eine symbiotische Beziehung erwarten können. Denn von dem, was wir als GmbH erarbeiten wird auch das Slock.it Ökosystem als Ganzes profitieren. Zum Beispiel kann Slock.it GmbH eine Partnerschaft mit verschiedenen Schlossherstellern eingehen, Beratung für Unternehmen im Bereich SmartHome anbieten, die Slock.it API an Teil verbreiteter Smart Objects integrieren oder mit Banken zusammenarbeiten, um die Zahlungsmöglichkleiten für Slocks zu vereinfachen.
 
 
 ### Kann ich mithelfen?
@@ -66,8 +66,8 @@ Ja, es ist ein Open-Source Projekt und wir ermutigen jeden sich in irgendeiner W
 
 z.B.: können Sie in diesen Punkten unterstützen:
 
-- Quellcode auf [github](https://github.com/Slockit/) überprüfen und kommentieren (wie es Open-Source-Projekten üblich ist)
-- Marktanaylsen in verschiedenen Teilen der Welt
+- Quellcode auf [github](https://github.com/Slockit/) überprüfen und kommentieren (wie es bei Open-Source-Projekten üblich ist)
+- Marktanaylsen erstellen für verschiedenen Teile der Welt
 - Die Übersetzung der Website, Whitepaper, Videos und App in Ihrer Muttersprache
 - lokale Foren betreiben (vor allem in nicht-lateinischen Zeichensätze)
 - Tester unserer Prototypen
@@ -79,14 +79,14 @@ Um mitzumachen, einfach im [Slack](http://Slock.it:3000/) registrieren.
 
 ### Was sind "Slocks '?
 
-'Slock' ist ein Wortspiel mit den Begriffen *S*chlau und *S*icher und *Lock* (Schloss). Alle Geräte, die ZigBee, Z-Wave, Bluetooth oder WLAN unterstützen können als Slock benutzt werden, dank unseren ersten Produktes, dem Ethereum Computers. Wenn es darum geht, ein "einfaches" Gerät zu steuern, dann können diese mit intelligenten Steckdosen nachgerüstet werden. Slocks kommen auch in vielen Formen und Größen vor: Fahrradschlösser, Autoschlösser und Türschlösser werden derzeit durch Partnerschaften mit verschiedenen IoT Herstellern entwickelt. 
+'Slock' ist ein Wortspiel mit den Begriffen *S*chlau und *S*icher und *Lock* (Schloss). Alle Endgeräte, die ZigBee, Z-Wave, Bluetooth oder WLAN unterstützen können bereits als Slock fungieren, dank unseres ersten Produktes, dem Ethereum Computer. Wenn es darum geht, ein "einfaches" Gerät zu steuern, dann können diese mit intelligenten Steckdosen nachgerüstet werden. Slocks kommen auch in vielen Formen und Größen vor: Fahrradschlösser, Autoschlösser und Türschlösser werden derzeit durch Partnerschaften mit verschiedenen IoT Herstellern entwickelt. 
 
 
 ### Wie funktionieren Slocks?
 
-Der Besitzer eines Slock setzt eine Kaution (falls nötig) und einen Preis für sein Angebot. Ein Benutzer kann dieses Slock mit der mobilen App finden und dann eine Zahlung durchführen, wodurch er die Berechtigung erhält das Schloß mit seinem Smartphone zu öffnen und zu schließen.
+Der Besitzer eines Slock setzt eine Kaution (falls nötig) und einen Preis für sein Angebot fest. Ein Benutzer kann dieses Slock mit der mobilen App finden und dann eine Zahlung durchführen, wodurch er die Berechtigung erhält das Schloß mit seinem Smartphone zu öffnen und zu schließen.
 
-Wurde eine Kaution gesetzt, so wird diese als Sicherheit in einem SmartContract gehalten, bis der Benutzer das Schloß wieder freigibt. Dabei sorgt diese SmartContract dafür, dass nach der Benutzung der Besitzer seine Miete erhält und der Benutzer den Restbetrag (Kaution - Miete) zurückerstattet bekommt.
+Wurde eine Kaution gesetzt, so wird diese als Sicherheit in einem SmartContract gehalten, bis der Benutzer das Schloß wieder freigibt. Dabei sorgt der SmartContract automatisch dafür, dass nach der Benutzung der Besitzer seine Miete erhält und der Benutzer den Restbetrag (Kaution - Miete) zurückerstattet bekommt.
 
 Dank unserem Partner [SafeShare](http://www.safeshareinsurance.com/), sind nun erstmalig auch Ad-hoc-Versicherungen möglich, wodurch auch die Fälle abgedeckt werden, wo eine Kaution das Risiko nicht abdecken würde.
 
@@ -95,7 +95,7 @@ All dies funktioniert ohne Hilfe Dritter.
 
 ### Müssen die Benutzer jedes Mal, wenn sie einen Slock nutzen zahlen?
 
-Nein. Lediglich einmal, um Zugang zu dem Schloß zu erhalten. Danach kann das Schloß so oft man will geöffnet und geschlossen werden, da dies nun mit Hilfe von signierten Nachrichten [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview) geschieht, die dann direkt vom Smartphone zum Schloss geschickt werden. Diese werden verifiziert und mit der aktuell autorisierten Benutzer verglichen, bevor diese ausgeführt und damit das Schloss in Bewegung setzen.
+Nein. Lediglich einmal, um Zugang zu dem Schloß zu erhalten. Danach kann das Schloß so oft man will geöffnet und geschlossen werden, da dies nun mit Hilfe von signierten Nachrichten [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-Overview) geschieht, die dann direkt vom Smartphone zum Schloss geschickt werden. Diese werden verifiziert und mit dem aktuell autorisierten Benutzer verglichen, bevor diese ausgeführt werden und damit das Schloss in Bewegung setzen.
 
 
 ### Können Benutzer auch Kreditkarten verwenden, um ein Slock zu öffnen?
@@ -103,7 +103,7 @@ Nein. Lediglich einmal, um Zugang zu dem Schloß zu erhalten. Danach kann das Sc
 Zur Zeit sind wir mit verschiedenen Finanzinstituten im Gespräch, um dies in Zukunft zu ermöglichen.
 
 
-### Können die Slocks nicht auch zerstört werden?
+### Können die Slocks auch zerstört werden?
 
 Natürlich werden einige beschädigt oder zerstört, so wie auch herkömmliche Schlösser kein Allheilmittel gegen Diebstahl und Beschädigung sind. Allerdings haben Slocks die Versicherungsoption direkt im SmartContract eingebaut, was traditionelle Schlösser nicht können.
 Dort, wo es um geringere Werte geht, legt der Besitzer einfach eine Kaution fest, die im Schadensfall das Risiko abdecken sollte.
@@ -118,21 +118,25 @@ Das gleiche, wie bei jedem anderen SmartLock. Je nach regionalen Bestimmungen un
 
 ### Was genau ist ein "Ethereum Computer"?
 
-Es ist der einfachste Einstieg in die Welt von Slock.it und Ethereum, ohne das man mit der Einrichtung von "clients" zu kämpfen hat, Ether über eine Börse zu kaufen oder sich Gedanken über Sicherheits-Updates machen muss.
-Die Ethereum Computer ist ein kleiner, vorinstallierter, vorkonfigurierter Home-Server, auf dem sowohl eine optimierte Ethereum Client, wie auch aufregende neue [dezentrale Anwendungen](http://dapps.ethercasts.com/), einschließlich eines Browsers dafür laufen. Der Ethereum Computer setzt Identität, Fonds und persönliche Informationen wieder unter der Kontrolle der Nutzer, und wir denken, es wird sich ändern _alles_.
+Stellen Sie sich eine kleine Box vor, welche Ihre Rechte und Identität, mit stärkster Verschlüsselung und Berechtigungskontrolle verwaltet.
+Im Inneren finden Sie ein web3 Identitätsdepot, ein Slock Gateway zu Ihrem Internet der Dinge, und auch experimentelle Software wie ein IPFS Server.
+Der Ethereum Computer ist ein kleiner, vorinstallierter, vorkonfigurierter Home-Server, welcher über Ethereum Node läuft und für
+IOT optimiert ist. Er ist ein sicherer SLOCK Zugang zwischen dem Web&Web3 Ihres Zuhauses oder dem IOT, welcher drahtlos mit Ihren "schlauen Objekten" kommuniziert.
+Man nutzt ihn zb. auch um auf einfachste Weise nach DAPPS [dezentrale Anwendungen](http://dapps.ethercasts.com/) zu browsen incl. MIST.
+Er bietet ebenso eine brilliante Plattform , vollgepackt mit Software , um Dapps zu entwickeln.
 
-Denken Sie an eine kleine Box, die Ihre Rechte und Identität, mit starker Verschlüsselung und Berechtigungskontrolle verwaltet. Im Inneren finden Sie ein web3 Identitätsdepot, ein Slock Gateway zu Ihrem Internet der Dinge, und auch experimentelle Software wie ein IPFS Server, finden Ihre ungenutzten Festplattenspeicher zu mieten - automatisch.
-
-- Es ist der einfachere Weg Dapps zu suchen.
-- Es ist eine sichere Gatekeeper zwischen der Bahn und web3 zu Ihnen nach Hause oder in kleinen Büros IoT, drahtlos mit Ihrem Smart Objects in Verbindung steht.
-- Und es ist auch ein brillanter Entwicklungsplattform, die Verpackung die gesamte Software benötigt Ethereum Dapps im Rahmen eines einfachen, optimierten Bild zu bauen.
+Wir wollen den Ethereum Computer als einfachsten Einstiegspunkt in die Welt von Slock.it und Ethereum zur Verfügung stellen, ohne das man mit der Einrichtung von "clients" zu kämpfen hat, Ether über eine Börse kaufen oder sich Gedanken über Sicherheits-Updates machen muss.
 
 
-### Was könnte ich tun mit dem Ethereum Computer?
+### Wofür genau kann ich den Ethereum Computer einsetzen ?
 
-Aktivieren Sie Ihr ganzes Haus mit dem blockchain zu kommunizieren -: Mieten Sie Ihre Wohnung, Ihr Büro, Zugang zu Ihrem WLAN-Hotspot, oder den Austausch aller Slock.it Smart-Objekt in Reichweite direkt aktiviert und sicher
-- Probieren Sie neue, spannende Anwendungen: Die Ethereum Computer einen ausgewachsenen Umsetzung des Ethereums Stapel ist, und daher jede Dapp über HDMI an Ihr Heimkino dienen kann.
-- Blättern web3 sicher: Sie können Ihren Browser, Handy oder Tablet mit dem Ethereum Computer, und die 3rd-Party-Web-Server verweisen wird nur verwendet werden, um statische HTML-Vermögen zu dienen, während Sie Ihre kostbare Krypto-Schlüssel sicher innerhalb der Grenzen von zu Hause bleiben .
+- Sie können Ihr ganzes Haus mit der Blockchain kommunizieren lassen - vermieten Sie Ihre Wohnung , Ihr Büro , ein Zimmer,
+  Ihren Internet Zugang oder vermieten Sie freigeschaltete "schlaue Gegenstände" wie Fahrrad oder Kettensäge etc.
+
+- Probieren Sie neue, spannende Anwendungen aus : Der Etherium Computer ist ein volles Abbild des Ethereum Stack und dadurch
+  ist die Wiedergabe von Dapps über HDMI bis hin zur Ihrem Heimkino ein Kinderspiel.
+
+- Sicher im Web3 surfen - ########################### HIER GEHTS WEITER MIT DER BEARBEITUNG ####################################
 Gewinnen Sie ein passives Einkommen -: die Ethereum-Computer verwendet werden, um eine IPFS Knoten laufen, vielleicht sogar Belohnungen für die Anmietung Ihre ungenutzten Festplattenspeicher zu empfangen. Wir suchen auch in der Möglichkeit, dass Sie Ihre Ethereum Computer als Oracle verwenden, verdienen Tokens durch physikalische Datenbereit Smart Verträge blockchain.
 - Entwickeln von Anwendungen mit Ethereum und sich niemals über die Installation Schwierigkeiten sorgen. Wir werden Updates aussortieren und Kompatibilitätsprobleme zwischen den verschiedenen Komponenten des Ethereums 'Stack' (Flüstern, EVM, Web3.js, Schwarm, etc), und wird Push-Updates nur, wenn wir den Rahmen von oben nach unten getestet haben.
 - Helfen Sie dem Ethereum Netzwerk sichern und dafür belohnt (einmal Ethereum zu PoS geschaltet hat), ohne größer zu widmen haben, teurer und weniger sichere Anlagen zu dieser Aufgabe.
